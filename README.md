@@ -6,8 +6,10 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/lucasl37)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/lucasll37/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasll37&show_icons=true&theme=dracula)
-
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasll37&show_icons=true&theme=dracula" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasll37&layout=compact&theme=dracula" />
+</div>
 
 ### Technologies and Tools
 <div style="display: inline_block"><br/>
@@ -37,5 +39,3 @@
 <img align="center " alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="center " alt="html5" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 </div><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasll37&layout=compact)
